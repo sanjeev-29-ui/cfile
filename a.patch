@@ -1,0 +1,9 @@
+diff --git a/1.c b/1.c
+index 6977d25..034b890 100644
+--- a/1.c
++++ b/1.c
+@@ -2,3 +2,4 @@ int a;
+ int b;
+ int c;
+ return 0;
++hello
